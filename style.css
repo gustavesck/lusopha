@@ -44,7 +44,7 @@
 }
 
 body {
-  font-family: "Barlow";
+  font-family: "Barlow", Arial, Helvetica, sans-serif;
   color: var(--blue);
   margin: 0;
   padding-block: 24px;
