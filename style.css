@@ -59,6 +59,7 @@ a {
 h1,
 h2,
 h3 {
+  font-family: Barlow, Arial, Helvetica, sans-serif;
   margin: 0;
   font-weight: 900;
   text-transform: uppercase;
